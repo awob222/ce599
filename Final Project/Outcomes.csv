@@ -1,0 +1,513 @@
+Number of People,Outcome
+1,Bad Weather
+2,Bad Weather
+3,Bad Weather
+4,Bad Weather
+5,Bad Weather
+6,Bad Weather
+7,Bad Weather
+8,Bad Weather
+9,Bad Weather
+10,Bad Weather
+11,Bad Weather
+12,Bad Weather
+13,Bad Weather
+14,Bad Weather
+15,Bad Weather
+16,Bad Weather
+17,Bad Weather
+18,Bad Weather
+19,Bad Weather
+20,Bad Weather
+21,Bad Weather
+22,Bad Weather
+23,Bad Weather
+24,Bad Weather
+25,Bad Weather
+26,Bad Weather
+27,Bad Weather
+28,Bad Weather
+29,Bad Weather
+30,Bad Weather
+31,Bad Weather
+32,Bad Weather
+33,Bad Weather
+34,Bad Weather
+35,Bad Weather
+36,Bad Weather
+37,Bad Weather
+38,Bad Weather
+39,Bad Weather
+40,Bad Weather
+41,Bad Weather
+42,Bad Weather
+43,Bad Weather
+44,Bad Weather
+45,Bad Weather
+46,Bad Weather
+47,Bad Weather
+48,Bad Weather
+49,Bad Weather
+50,Roadway Conditions
+51,Roadway Conditions
+52,Roadway Conditions
+53,Roadway Conditions
+54,Roadway Conditions
+55,Roadway Conditions
+56,Roadway Conditions
+57,Roadway Conditions
+58,Roadway Conditions
+59,Roadway Conditions
+60,Roadway Conditions
+61,Roadway Conditions
+62,Roadway Conditions
+63,Roadway Conditions
+64,Roadway Conditions
+65,Roadway Conditions
+66,Roadway Conditions
+67,Roadway Conditions
+68,Roadway Conditions
+69,Roadway Conditions
+70,Roadway Conditions
+71,Roadway Conditions
+72,Roadway Conditions
+73,Roadway Conditions
+74,Roadway Conditions
+75,Roadway Conditions
+76,Roadway Conditions
+77,Roadway Conditions
+78,Roadway Conditions
+79,Roadway Conditions
+80,Roadway Conditions
+81,Roadway Conditions
+82,Roadway Conditions
+83,Roadway Conditions
+84,Roadway Conditions
+85,Roadway Conditions
+86,Roadway Conditions
+87,Roadway Conditions
+88,Roadway Conditions
+89,Roadway Conditions
+90,Roadway Conditions
+91,Roadway Conditions
+92,Roadway Conditions
+93,Roadway Conditions
+94,Roadway Conditions
+95,Roadway Conditions
+96,Roadway Conditions
+97,Roadway Conditions
+98,Roadway Conditions
+99,Surface Type
+100,Saved By CAVs
+101,Saved By CAVs
+102,Saved By CAVs
+103,Saved By CAVs
+104,Saved By CAVs
+105,Saved By CAVs
+106,Saved By CAVs
+107,Saved By CAVs
+108,Saved By CAVs
+109,Saved By CAVs
+110,Saved By CAVs
+111,Saved By CAVs
+112,Saved By CAVs
+113,Saved By CAVs
+114,Saved By CAVs
+115,Saved By CAVs
+116,Saved By CAVs
+117,Saved By CAVs
+118,Saved By CAVs
+119,Saved By CAVs
+120,Saved By CAVs
+121,Saved By CAVs
+122,Saved By CAVs
+123,Saved By CAVs
+124,Saved By CAVs
+125,Saved By CAVs
+126,Saved By CAVs
+127,Saved By CAVs
+128,Saved By CAVs
+129,Saved By CAVs
+130,Saved By CAVs
+131,Saved By CAVs
+132,Saved By CAVs
+133,Saved By CAVs
+134,Saved By CAVs
+135,Saved By CAVs
+136,Saved By CAVs
+137,Saved By CAVs
+138,Saved By CAVs
+139,Saved By CAVs
+140,Saved By CAVs
+141,Saved By CAVs
+142,Saved By CAVs
+143,Saved By CAVs
+144,Saved By CAVs
+145,Saved By CAVs
+146,Saved By CAVs
+147,Saved By CAVs
+148,Saved By CAVs
+149,Saved By CAVs
+150,Saved By CAVs
+151,Saved By CAVs
+152,Saved By CAVs
+153,Saved By CAVs
+154,Saved By CAVs
+155,Saved By CAVs
+156,Saved By CAVs
+157,Saved By CAVs
+158,Saved By CAVs
+159,Saved By CAVs
+160,Saved By CAVs
+161,Saved By CAVs
+162,Saved By CAVs
+163,Saved By CAVs
+164,Saved By CAVs
+165,Saved By CAVs
+166,Saved By CAVs
+167,Saved By CAVs
+168,Saved By CAVs
+169,Saved By CAVs
+170,Saved By CAVs
+171,Saved By CAVs
+172,Saved By CAVs
+173,Saved By CAVs
+174,Saved By CAVs
+175,Saved By CAVs
+176,Saved By CAVs
+177,Saved By CAVs
+178,Saved By CAVs
+179,Saved By CAVs
+180,Saved By CAVs
+181,Saved By CAVs
+182,Saved By CAVs
+183,Saved By CAVs
+184,Saved By CAVs
+185,Saved By CAVs
+186,Saved By CAVs
+187,Saved By CAVs
+188,Saved By CAVs
+189,Saved By CAVs
+190,Saved By CAVs
+191,Saved By CAVs
+192,Saved By CAVs
+193,Saved By CAVs
+194,Saved By CAVs
+195,Saved By CAVs
+196,Saved By CAVs
+197,Saved By CAVs
+198,Saved By CAVs
+199,Saved By CAVs
+200,Saved By CAVs
+201,Saved By CAVs
+202,Saved By CAVs
+203,Saved By CAVs
+204,Saved By CAVs
+205,Saved By CAVs
+206,Saved By CAVs
+207,Saved By CAVs
+208,Saved By CAVs
+209,Saved By CAVs
+210,Saved By CAVs
+211,Saved By CAVs
+212,Saved By CAVs
+213,Saved By CAVs
+214,Saved By CAVs
+215,Saved By CAVs
+216,Saved By CAVs
+217,Saved By CAVs
+218,Saved By CAVs
+219,Saved By CAVs
+220,Saved By CAVs
+221,Saved By CAVs
+222,Saved By CAVs
+223,Saved By CAVs
+224,Saved By CAVs
+225,Saved By CAVs
+226,Saved By CAVs
+227,Saved By CAVs
+228,Saved By CAVs
+229,Saved By CAVs
+230,Saved By CAVs
+231,Saved By CAVs
+232,Saved By CAVs
+233,Saved By CAVs
+234,Saved By CAVs
+235,Saved By CAVs
+236,Saved By CAVs
+237,Saved By CAVs
+238,Saved By CAVs
+239,Saved By CAVs
+240,Saved By CAVs
+241,Saved By CAVs
+242,Saved By CAVs
+243,Saved By CAVs
+244,Saved By CAVs
+245,Saved By CAVs
+246,Saved By CAVs
+247,Saved By CAVs
+248,Saved By CAVs
+249,Saved By CAVs
+250,Saved By CAVs
+251,Saved By CAVs
+252,Saved By CAVs
+253,Saved By CAVs
+254,Saved By CAVs
+255,Saved By CAVs
+256,Saved By CAVs
+257,Saved By CAVs
+258,Saved By CAVs
+259,Saved By CAVs
+260,Saved By CAVs
+261,Saved By CAVs
+262,Saved By CAVs
+263,Saved By CAVs
+264,Saved By CAVs
+265,Saved By CAVs
+266,Saved By CAVs
+267,Saved By CAVs
+268,Saved By CAVs
+269,Saved By CAVs
+270,Saved By CAVs
+271,Saved By CAVs
+272,Saved By CAVs
+273,Saved By CAVs
+274,Saved By CAVs
+275,Saved By CAVs
+276,Saved By CAVs
+277,Saved By CAVs
+278,Saved By CAVs
+279,Saved By CAVs
+280,Saved By CAVs
+281,Saved By CAVs
+282,Saved By CAVs
+283,Saved By CAVs
+284,Saved By CAVs
+285,Saved By CAVs
+286,Saved By CAVs
+287,Saved By CAVs
+288,Saved By CAVs
+289,Saved By CAVs
+290,Saved By CAVs
+291,Saved By CAVs
+292,Saved By CAVs
+293,Saved By CAVs
+294,Saved By CAVs
+295,Saved By CAVs
+296,Saved By CAVs
+297,Saved By CAVs
+298,Saved By CAVs
+299,Saved By CAVs
+300,Saved By CAVs
+301,Saved By CAVs
+302,Saved By CAVs
+303,Saved By CAVs
+304,Saved By CAVs
+305,Saved By CAVs
+306,Saved By CAVs
+307,Saved By CAVs
+308,Saved By CAVs
+309,Saved By CAVs
+310,Saved By CAVs
+311,Saved By CAVs
+312,Saved By CAVs
+313,Saved By CAVs
+314,Saved By CAVs
+315,Saved By CAVs
+316,Saved By CAVs
+317,Saved By CAVs
+318,Saved By CAVs
+319,Saved By CAVs
+320,Saved By CAVs
+321,Saved By CAVs
+322,Saved By CAVs
+323,Saved By CAVs
+324,Saved By CAVs
+325,Saved By CAVs
+326,Saved By CAVs
+327,Saved By CAVs
+328,Saved By CAVs
+329,Saved By CAVs
+330,Saved By CAVs
+331,Saved By CAVs
+332,Saved By CAVs
+333,Saved By CAVs
+334,Saved By CAVs
+335,Saved By CAVs
+336,Saved By CAVs
+337,Saved By CAVs
+338,Saved By CAVs
+339,Saved By CAVs
+340,Saved By CAVs
+341,Saved By CAVs
+342,Saved By CAVs
+343,Saved By CAVs
+344,Saved By CAVs
+345,Saved By CAVs
+346,Saved By CAVs
+347,Saved By CAVs
+348,Saved By CAVs
+349,Saved By CAVs
+350,Saved By CAVs
+351,Saved By CAVs
+352,Saved By CAVs
+353,Saved By CAVs
+354,Saved By CAVs
+355,Saved By CAVs
+356,Saved By CAVs
+357,Saved By CAVs
+358,Saved By CAVs
+359,Saved By CAVs
+360,Saved By CAVs
+361,Saved By CAVs
+362,Saved By CAVs
+363,Saved By CAVs
+364,Saved By CAVs
+365,Saved By CAVs
+366,Saved By CAVs
+367,Saved By CAVs
+368,Saved By CAVs
+369,Saved By CAVs
+370,Saved By CAVs
+371,Saved By CAVs
+372,Saved By CAVs
+373,Saved By CAVs
+374,Saved By CAVs
+375,Saved By CAVs
+376,Saved By CAVs
+377,Saved By CAVs
+378,Saved By CAVs
+379,Saved By CAVs
+380,Saved By CAVs
+381,Saved By CAVs
+382,Saved By CAVs
+383,Saved By CAVs
+384,Saved By CAVs
+385,Saved By CAVs
+386,Saved By CAVs
+387,Saved By CAVs
+388,Saved By CAVs
+389,Saved By CAVs
+390,Saved By CAVs
+391,Saved By CAVs
+392,Saved By CAVs
+393,Saved By CAVs
+394,Saved By CAVs
+395,Saved By CAVs
+396,Saved By CAVs
+397,Saved By CAVs
+398,Saved By CAVs
+399,Saved By CAVs
+400,Saved By CAVs
+401,Saved By CAVs
+402,Saved By CAVs
+403,Saved By CAVs
+404,Saved By CAVs
+405,Saved By CAVs
+406,Saved By CAVs
+407,Saved By CAVs
+408,Saved By CAVs
+409,Saved By CAVs
+410,Saved By CAVs
+411,Saved By CAVs
+412,Saved By CAVs
+413,Saved By CAVs
+414,Saved By CAVs
+415,Saved By CAVs
+416,Saved By CAVs
+417,Saved By CAVs
+418,Saved By CAVs
+419,Saved By CAVs
+420,Saved By CAVs
+421,Saved By CAVs
+422,Saved By CAVs
+423,Saved By CAVs
+424,Saved By CAVs
+425,Saved By CAVs
+426,Saved By CAVs
+427,Saved By CAVs
+428,Saved By CAVs
+429,Saved By CAVs
+430,Saved By CAVs
+431,Saved By CAVs
+432,Saved By CAVs
+433,Saved By CAVs
+434,Saved By CAVs
+435,Saved By CAVs
+436,Saved By CAVs
+437,Saved By CAVs
+438,Saved By CAVs
+439,Saved By CAVs
+440,Saved By CAVs
+441,Saved By CAVs
+442,Saved By CAVs
+443,Saved By CAVs
+444,Saved By CAVs
+445,Saved By CAVs
+446,Saved By CAVs
+447,Saved By CAVs
+448,Saved By CAVs
+449,Saved By CAVs
+450,Saved By CAVs
+451,Saved By CAVs
+452,Saved By CAVs
+453,Saved By CAVs
+454,Saved By CAVs
+455,Saved By CAVs
+456,Saved By CAVs
+457,Saved By CAVs
+458,Saved By CAVs
+459,Saved By CAVs
+460,Saved By CAVs
+461,Saved By CAVs
+462,Saved By CAVs
+463,Saved By CAVs
+464,Saved By CAVs
+465,Saved By CAVs
+466,Saved By CAVs
+467,Saved By CAVs
+468,Saved By CAVs
+469,Saved By CAVs
+470,Saved By CAVs
+471,Saved By CAVs
+472,Saved By CAVs
+473,Saved By CAVs
+474,Saved By CAVs
+475,Saved By CAVs
+476,Saved By CAVs
+477,Saved By CAVs
+478,Saved By CAVs
+479,Saved By CAVs
+480,Saved By CAVs
+481,Saved By CAVs
+482,Saved By CAVs
+483,Saved By CAVs
+484,Saved By CAVs
+485,Saved By CAVs
+486,Saved By CAVs
+487,Saved By CAVs
+488,Saved By CAVs
+489,Saved By CAVs
+490,Saved By CAVs
+491,Saved By CAVs
+492,Saved By CAVs
+493,Saved By CAVs
+494,Saved By CAVs
+495,Saved By CAVs
+496,Saved By CAVs
+497,Saved By CAVs
+498,Saved By CAVs
+499,Saved By CAVs
+500,Saved By CAVs
+501,Saved By CAVs
+502,Saved By CAVs
+503,Saved By CAVs
+504,Saved By CAVs
+505,Saved By CAVs
+506,Saved By CAVs
+507,Saved By CAVs
+508,Saved By CAVs
+509,Saved By CAVs
+510,Saved By CAVs
+511,Saved By CAVs
+512,Saved By CAVs
